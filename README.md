@@ -1,2 +1,2 @@
 # gmodcybershop
-The site is not super perfect and it requires a lot of improvements, this site was not written by a super perfect coder, and this site was custom-made.
+The site is not yet fully developed and requires significant improvement. The current version of the site was not designed with a comprehensive user experience in mind, and was instead custom-developed by a close colleague of mine.
